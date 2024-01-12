@@ -1,4 +1,3 @@
-Certainly! Below is a simple README file for your keylogger. Make sure to customize it with specific details, warnings, and instructions as needed.
 
 ```markdown
 # Simple Python Keylogger
